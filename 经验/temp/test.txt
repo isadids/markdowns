@@ -1,16 +1,0 @@
-
-02/15 17:35:44 [[1;32mNOTICE[0m] Downloading 1 item(s)
-
-02/15 17:35:44 [[1;32mNOTICE[0m] CUID#7 - Redirecting to https://down-tencent.huorong.cn/sysdiag-all-x64-6.0.9.1-2026.02.15.1.exe
-
-02/15 17:35:44 [[1;32mNOTICE[0m] Allocating disk space. Use --file-allocation=none to disable it. See --file-allocation option in man page for more details.
-                                                                               [#3104fb 7.1MiB/64MiB(11%) CN:1 DL:19MiB ETA:2s]                                                                               [#3104fb 32MiB/64MiB(50%) CN:1 DL:24MiB ETA:1s]                                                                               [#3104fb 54MiB/64MiB(84%) CN:1 DL:23MiB]
-02/15 17:35:47 [[1;32mNOTICE[0m] Download complete: C:/Users/mtueih/AppData/Local/Temp/sysdiag-all-x64-6.0.9.1-2026.02.15.1.exe
-
-Download Results:
-gid   |stat|avg speed  |path/URI
-======+====+===========+=======================================================
-3104fb|OK  |    23MiB/s|C:/Users/mtueih/AppData/Local/Temp/sysdiag-all-x64-6.0.9.1-2026.02.15.1.exe
-
-Status Legend:
-(OK):download completed.
